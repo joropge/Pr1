@@ -34,6 +34,7 @@
             </li>
         <?php endforeach; ?>
     </ol>
+    <h1>Mayor a menor</h1>
 
 
 </body>
